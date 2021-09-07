@@ -5,7 +5,7 @@
   <meta name"description" content="Real Time Chat"/>
   <meta name="author" content="Noel Mallari"/>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Real Time Chat - Register</title>
   <link rel="stylesheet" href="/style.css" type="text/css" media="all" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
