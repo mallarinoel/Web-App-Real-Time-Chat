@@ -30,7 +30,7 @@ if (!isset($_SESSION['unique_id'])) {
         }
         ?>
         <div class="content">
-          <img src="/php/Profile/<?php echo $row['img'] ?>" alt="profile" />
+          <img src="/php/profile/<?php echo $row['img'] ?>" alt="profile" />
           <div class="user-details">
             <span><?php echo $row['fname'], " ", $row['lname'] ?></span>
             <p><?php echo $row['status']?></p>
