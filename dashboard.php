@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!isset($_SESSION['unique_id'])) {
-  header("Location: /login.php");
+  header("Location: /index.php");
 }?>
 
 <!DOCTYPE html>
